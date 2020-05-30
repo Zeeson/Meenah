@@ -18,7 +18,7 @@
 body {
   font-family: "Poppins", sans-serif;
   font-size: 14px;
-  background-color: #ffffff;
+  background-color: #aac7e0;
   margin-top: 85px; }
   @media only screen and (max-width: 767px) {
     body {
@@ -807,14 +807,14 @@ img {
       letter-spacing: 0.75px;
       font-weight: 600; }
     .single-product-wrapper .product-description h6 {
-      color: #222222;
-      margin-bottom: 5px; }
+      color: #1280e0;
+      margin: 10px; }
     .single-product-wrapper .product-description p {
-      margin-bottom: 0;
+      margin: 10px;
       font-size: 14px;
       font-family: "Ubuntu", sans-serif;
       font-weight: 700;
-      color: #000000; }
+      color: #1280e0; }
       .single-product-wrapper .product-description p span {
         font-size: 14px;
         font-family: "Ubuntu", sans-serif;
